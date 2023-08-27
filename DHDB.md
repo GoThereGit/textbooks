@@ -7,6 +7,7 @@ $(document).ready(function () {
     alert('RUNOOB');
 });
 `
+[代码1](https://github.com/GoThereGit/textbooks/edit/main/php1.php)
 * 第二章
 * 第三章
 * 
