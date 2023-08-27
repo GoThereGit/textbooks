@@ -10,4 +10,5 @@ $(document).ready(function () {
 [代码1](https://github.com/GoThereGit/textbooks/edit/main/php1.php)
 * 第二章
 * 第三章
-* 
+  + 3.1 数据库查询
+  + 3.2
