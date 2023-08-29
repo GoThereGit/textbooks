@@ -1,18 +1,18 @@
-﻿<?php
+<?php
 print("你好<br>");
-echo"你好";
-echo"你<br>好";
-echo"<font color=red>你好</font>";
-echo"<font color=FF3399>你好</font>";
-echo"<font color=black size=1>你好</font>";
-echo"<font color=black size=10>你好</font>";
-echo"<font face=楷体>你好</font>";
-echo"<font face=宋体>你好</font>";
+echo "你好";
+echo "你<br>好";
+echo "<font color=red>你好</font>";
+echo "<font color=FF3399>你好</font>";
+echo "<font color=black size=1>你好</font>";
+echo "<font color=black size=10>你好</font>";
+echo "<font face=楷体>你好</font>";
+echo "<font face=宋体>你好</font>";
 
-echo"😓😔😨🤮🤧🤡💩";
+echo "😓😔😨🤮🤧🤡💩";
 
 echo '<img src="pulpit.jpg" >';
-
+?>
 
 <h4>一列:</h4>
 <table border="1">
@@ -20,7 +20,7 @@ echo '<img src="pulpit.jpg" >';
     <td>100</td>
   </tr>
 </table>
- 
+
 <h4>两行三列:</h4>
 <table border="1">
   <tr>
@@ -34,4 +34,3 @@ echo '<img src="pulpit.jpg" >';
     <td>600</td>
   </tr>
 </table>
-?>
