@@ -23,7 +23,7 @@ function addn($m,$a){
 function print_pd($start,$level){
     $n=$level;
     for($i=$start;$i<=10;$i++){
-        for($k=10-$i;$k>=O;$k--){
+        for($k=10-$i;$k>=0;$k--){
             echo"&nbsp;&nbsp;";
         }
         for($j=1;$j<=$i*2-1;$j++){
