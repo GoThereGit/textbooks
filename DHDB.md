@@ -16,8 +16,7 @@ $(document).ready(function () {
 
 # 素材与数据
 
-emed701epx.zip   Emeditor安装包 
-
+emed701epx.zip   Emeditor安装包     
 incubator-echarts-master.zip  Echart安装包
 pkuwords.txt  pku词表
 sn.txt  Emeditor注册码
