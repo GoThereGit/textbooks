@@ -1,27 +1,12 @@
 # textbooks
 # 数字人文实战——网络数据库编程技术（Access+MySQL+PHP+JS） 配套数据与代码
-* 第一章
 
- `javascript
-$(document).ready(function () {
-    alert('RUNOOB');
-});
-`
-[代码1](https://github.com/GoThereGit/textbooks/edit/main/php1.php)
+# 数据与安装包    
 
-* 第一章
-
-* 第三章
-+ 3.1 数据库查询
-
-+ ](https://github.com/GoThereGit/textbooks/blob/main/)
-
-# 素材与数据    
-
-[emed701epx.zip](https://github.com/GoThereGit/textbooks/blob/main/emed701epx.zip)   Emeditor安装包     
+[emed701epx.zip](https://github.com/GoThereGit/textbooks/blob/main/emed701epx.zip)   Emeditor安装包    
+[sn.txt](https://github.com/GoThereGit/textbooks/blob/main/)  Emeditor注册码    
 [incubator-echarts-master.zip](https://github.com/GoThereGit/textbooks/blob/main/)  Echart安装包      
 [pkuwords.txt](https://github.com/GoThereGit/textbooks/blob/main/)  pku词表    
-[sn.txt](https://github.com/GoThereGit/textbooks/blob/main/)  Emeditor注册码    
 [tangshiutf8.txt](https://github.com/GoThereGit/textbooks/blob/main/)  全唐诗文本     
 [ts.xls](https://github.com/GoThereGit/textbooks/blob/main/)  全唐诗表格    
 [tangshi.sql](https://github.com/GoThereGit/textbooks/blob/main/)  全唐诗sql    
@@ -39,11 +24,11 @@ $(document).ready(function () {
 
 
 ## 第7章    
-7.2.“Hello World”先上路  [test2.php](https://github.com/GoThereGit/textbooks/blob/main/test2.php)     
-7.3.变量  [var.php](https://github.com/GoThereGit/textbooks/blob/main/var.php)     
-7.4.循环结构  [pyramid.php](https://github.com/GoThereGit/textbooks/blob/main/pyramid.php)     
-7.5.函数的封装  [encapsulation.php](https://github.com/GoThereGit/textbooks/blob/main/encapsulation.php)      
-7.6.数组  [array.php](https://github.com/GoThereGit/textbooks/blob/main/array.php)       
+>7.2.“Hello World”先上路  [test2.php](https://github.com/GoThereGit/textbooks/blob/main/test2.php)     
+>7.3.变量  [var.php](https://github.com/GoThereGit/textbooks/blob/main/var.php)     
+>7.4.循环结构  [pyramid.php](https://github.com/GoThereGit/textbooks/blob/main/pyramid.php)     
+>7.5.函数的封装  [encapsulation.php](https://github.com/GoThereGit/textbooks/blob/main/encapsulation.php)      
+>7.6.数组  [array.php](https://github.com/GoThereGit/textbooks/blob/main/array.php)       
 
 
 ## 第8章       
