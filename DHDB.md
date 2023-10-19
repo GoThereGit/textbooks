@@ -9,21 +9,15 @@ $(document).ready(function () {
 `
 [代码1](https://github.com/GoThereGit/textbooks/edit/main/php1.php)
 
-
-
 * 第一章
 
-
-* 第二章
 * 第三章
 + 3.1 数据库查询
-+ 3.2
-
-
 
 # 素材与数据
 
-emed701epx.zip   Emeditor安装包
+emed701epx.zip   Emeditor安装包 
+
 incubator-echarts-master.zip  Echart安装包
 pkuwords.txt  pku词表
 sn.txt  Emeditor注册码
