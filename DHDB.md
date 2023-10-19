@@ -21,9 +21,7 @@ $(document).ready(function () {
 
 
 
-
-
-#素材与数据
+# 素材与数据
 
 emed701epx.zip   Emeditor安装包
 incubator-echarts-master.zip  Echart安装包
@@ -35,17 +33,17 @@ tangshi.sql  全唐诗sql
 pulpit.jpg  输出图片
 
 
-#各章节代码
+# 各章节代码
 
-##第1~4章
+## 第1~4章
 Access_queries
 
 
-##第5~6章
+## 第5~6章
 SQL_queries.sql  SQL语句
 
 
-##第7章
+## 第7章
 7.2.“Hello World”先上路  test2.php
 7.3.变量  var.php
 7.4.循环结构  pyramid.php
@@ -53,22 +51,22 @@ SQL_queries.sql  SQL语句
 7.6.数组  array.php
 
 
-##第8章
+## 第8章
 “百度一下”  baidu.html
 调用数组、“生成一下”   $_POST.php
 
 
-##第9章
+## 第9章
 9.5.字符串的基本操作  char.php
                      string.php
 
                 
-##第10章
+## 第10章
 10.1.文件读写  file.php
 10.2.网络爬虫  crawling.php
 
 
-##第11章
+## 第11章
 11.1.JS简介  jstest.php
 11.2.百度地图  
 11.4.2.9.步行路线  walking.php
