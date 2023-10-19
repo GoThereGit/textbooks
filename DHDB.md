@@ -14,10 +14,12 @@ $(document).ready(function () {
 * 第三章
 + 3.1 数据库查询
 
++ ](https://github.com/GoThereGit/textbooks/blob/main/)
+
 # 素材与数据    
 
-<emed701epx.zip>   Emeditor安装包     
-incubator-echarts-master.zip  Echart安装包      
+[emed701epx.zip](https://github.com/GoThereGit/textbooks/blob/main/emed701epx.zip)   Emeditor安装包     
+[incubator-echarts-master.zip](https://github.com/GoThereGit/textbooks/blob/main/)  Echart安装包      
 pkuwords.txt  pku词表    
 sn.txt  Emeditor注册码    
 tangshiutf8.txt  全唐诗文本     
