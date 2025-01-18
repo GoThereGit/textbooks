@@ -1,4 +1,5 @@
 # 《数字人文实战:网络数据库编程技术》简介
+# Digital Humanities in Practice: Web Database Programming Techniques
 
 <img src="imgs/book.png" alt="book" style="zoom:50%;" />
 
