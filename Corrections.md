@@ -8,7 +8,7 @@
 
 **RE：**
 
-使用 `Chapter5/tangshiutf8.txt` 注意导入文件为`utf8`格式。
+Chapter2文件夹下已增补tsnew.txt文件。
 
 ---
 
