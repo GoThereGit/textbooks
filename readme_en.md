@@ -121,7 +121,7 @@ Through a combination of online and offline sessions totaling 32 class hours, th
 
 ![pic3png](imgs/pic3.png?msec=1741682775499?)
 
-### <mark> :computer:Student Achievements</mark>
+### <mark> Student Achievements</mark>
 
 - **Yu Zihan** developed a **Global Top Ten Fountain Pens Retrieval System**.
   
