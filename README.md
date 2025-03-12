@@ -3,6 +3,10 @@
 
 <img src="imgs/book.png" alt="book" style="zoom:50%;" />
 
+---
+English Version: [readme_en.md](https://github.com/GoThereGit/textbooks/blob/main/readme_en.md "readme_en.md")
+---
+
 ## 教材内容
 
 《数字人文实战：网络数据库编程技术》一书，2024年由南京大学出版社出版。全书共分 5 大板块，11个章节。
@@ -140,6 +144,3 @@
 
 
 勘误表请见`Corrections.md`文件。
----
-英文简介请见[readme_en.md](https://github.com/GoThereGit/textbooks/blob/main/readme_en.md "readme_en.md")
-
