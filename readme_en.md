@@ -246,3 +246,5 @@ Through a combination of online and offline sessions totaling 32 class hours, th
 ##### Others
 
 To view the errata, please refer to the [`Corrections.md`]() file.
+---
+For a brief introduction in Chinese, please see [README.md](https://github.com/GoThereGit/textbooks/blob/main/README.md "README.md")
