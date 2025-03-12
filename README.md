@@ -140,4 +140,6 @@
 
 
 勘误表请见`Corrections.md`文件。
+---
+英文简介请见[readme_en.md](https://github.com/GoThereGit/textbooks/blob/main/readme_en.md "readme_en.md")
 
