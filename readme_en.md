@@ -6,6 +6,9 @@
 
 <img title="" src="imgs/book.png" alt="book.png" width="350" data-align="center" >
 
+---
+Chinese Version:[README.md](https://github.com/GoThereGit/textbooks/blob/main/README.md "README.md")
+
 ## Textbook Content
 
 ***Digital Humanities in Practice: Network Database Programming Technology,* published by Nanjing University Press in 2024 which is divided into 5 sections and 11 chapters.**
@@ -247,4 +250,4 @@ Through a combination of online and offline sessions totaling 32 class hours, th
 
 To view the errata, please refer to the [`Corrections.md`]() file.
 ---
-For a brief introduction in Chinese, please see [README.md](https://github.com/GoThereGit/textbooks/blob/main/README.md "README.md")
+
