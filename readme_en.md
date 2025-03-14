@@ -1,14 +1,27 @@
-# Digital Humanities in Practice:
-
-# Web Database Programming Techniques
-
----
-
-<img title="" src="imgs/book.png" alt="book.png" width="350" data-align="center" >
+# <p align="center">Digital Humanities in Practice:</p>
+## <p align="center">Web Database Programming Techniques</p>
 
 ---
-Chinese Version:[README.md](https://github.com/GoThereGit/textbooks/blob/main/README.md "README.md")
 
+<p align="center"><img title="" src="imgs/book.png" alt="book.png" width="350"></p>
+
+---
+![What's new?](https://img.shields.io/badge/DHP_2025-NEW-red.svg "English Version")
+#### **Lightspot:**
+
+- For liberal arts students
+  
+- Programming through liberal arts mindset
+  
+- Constructions of ancient book database
+
+---
+[![Chinese](https://img.shields.io/badge/README-English-blue.svg "Chinese Version")](./README.md)
+
+**Chinese Version:**[README.md](https://github.com/GoThereGit/textbooks/blob/main/README.md "README.md")
+
+---
+[![Chinese](https://img.shields.io/badge/Textbook-Content-green.svg "Chinese Version")](./README.md)
 ## Textbook Content
 
 ***Digital Humanities in Practice: Network Database Programming Technology,* published by Nanjing University Press in 2024 which is divided into 5 sections and 11 chapters.**
@@ -39,7 +52,7 @@ Chinese Version:[README.md](https://github.com/GoThereGit/textbooks/blob/main/RE
     
 
 ---
-
+![What's new?](https://img.shields.io/badge/Book-Catalogue-red.svg "English Version")
 ## Catalogue
 
 This book starts from the database foundation, gradually in-depth to web design, dynamic programming, data processing, and finally guides readers to build a complete ancient book retrieval and visualization system, forming a step-by-step, from shallow to deep learning path.
@@ -78,23 +91,23 @@ As a textbook born in the era of artificial intelligence and aimed at liberal ar
 
 #### 1. Breaking the long-standing bias that "liberal arts students are insulated from technology", enabling the mastery of programming skills within the context of literature.
 
-This book, with its unique perspective and humorous language, shatters the "stereotype" that learning databases equates to monotonously memorizing SQL syntax. By guiding readers through objectives such as deciphering character frequencies and poetic rhythms in the *Complete Tang Poems* or tracking historical trajectories of figures, the learning of programming skills is not confined to mastering new technologies. Instead, it emphasizes inspiring humanities readers to gain new insights and deeper understanding of ancient texts.
+> This book, with its unique perspective and humorous language, shatters the "stereotype" that learning databases equates to monotonously memorizing SQL syntax. By guiding readers through objectives such as deciphering character frequencies and poetic rhythms in the *Complete Tang Poems* or tracking historical trajectories of figures, the learning of programming skills is not confined to mastering new technologies. Instead, it emphasizes inspiring humanities readers to gain new insights and deeper understanding of ancient texts.
 
 #### 2. Innovatively integrating classical literature with modern technology.
 
-This book does not merely teach programming techniques but guides readers to re-examine classics through a technological lens. When readers use SQL statements to analyze Li Bai's poetry or visualize Du Fu's life trajectory with JavaScript, they will discover the digital charm embedded within. It turns out that digital technology can so elegantly and systematically reveal the beauty of literature. This cross-disciplinary thinking will promote multi-disciplinary integration and create more possibilities for the digital era.
+> This book does not merely teach programming techniques but guides readers to re-examine classics through a technological lens. When readers use SQL statements to analyze Li Bai's poetry or visualize Du Fu's life trajectory with JavaScript, they will discover the digital charm embedded within. It turns out that digital technology can so elegantly and systematically reveal the beauty of literature. This cross-disciplinary thinking will promote multi-disciplinary integration and create more possibilities for the digital era.
 
 #### 3. A "learning by doing" practical teaching model that makes education enjoyable.
 
-This book adopts a "learning by doing" practical teaching model, with each chapter equipped with rich hands-on projects and theoretical explanations. From basic database operations to complex web crawling techniques and advanced data visualization applications, readers can practice what they learn while building their own digital humanities projects.
+> This book adopts a "learning by doing" practical teaching model, with each chapter equipped with rich hands-on projects and theoretical explanations. From basic database operations to complex web crawling techniques and advanced data visualization applications, readers can practice what they learn while building their own digital humanities projects.
 
 #### 4. Focusing on the application of cutting-edge technologies in the humanities.
 
-This book delves into how to use databases and web technologies to construct ancient text retrieval systems and how to restore geographical scenes in classical literary works through geographic information systems. These applications of cutting-edge technologies not only provide more convenient and efficient tools for academic research but also significantly enhance learners' competitiveness.
+> This book delves into how to use databases and web technologies to construct ancient text retrieval systems and how to restore geographical scenes in classical literary works through geographic information systems. These applications of cutting-edge technologies not only provide more convenient and efficient tools for academic research but also significantly enhance learners' competitiveness.
 
 #### 5. Upholding principles of richness, openness, and extensibility, advocating for divergent thinking.
 
-This book includes a "Thinking and Practice" section at the end of each chapter, encouraging readers to apply what they have learned to their areas of interest. Whether readers are passionate about classical poetry or fascinated by modern literature, they can find suitable project directions in this book. This flexible and diverse learning approach ensures that education is not confined to textbooks and classrooms but becomes a fun and challenging journey of self-exploration.
+> This book includes a "Thinking and Practice" section at the end of each chapter, encouraging readers to apply what they have learned to their areas of interest. Whether readers are passionate about classical poetry or fascinated by modern literature, they can find suitable project directions in this book. This flexible and diverse learning approach ensures that education is not confined to textbooks and classrooms but becomes a fun and challenging journey of self-exploration.
 
 *Digital Humanities in Practice* focuses on "learning for application" rather than mere theoretical discussion. Every concept and every line of code is closely connected to practical applications. In this data-driven era, mastering these skills not only inspires readers to explore classical literature from new perspectives but also cultivates their practical abilities and innovative thinking in the technological field.
 
